@@ -8,5 +8,9 @@ This repository contains Python files demonstrating the use of the `datetime` an
 - `now`
 - `today`
 - `utcnow`
+- `strptime`
+- `strftime`
 
-You can find these examples explained in detail in this [YouTube video](https://youtu.be/eirjjyP2qcQ?si=7XjTLXZyPOGyyusE).
+
+You can find some of these examples explained in detail in this [YouTube video](https://youtu.be/eirjjyP2qcQ?si=7XjTLXZyPOGyyusE).
+next_date_calculator.py is an excersise from [Troubleshooting and Debugging Techniques](https://www.coursera.org/learn/troubleshooting-debugging-techniques/home/module/1)
